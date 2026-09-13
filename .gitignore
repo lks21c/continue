@@ -179,3 +179,5 @@ keys
 .copy-status
 .copy-log
 
+# JetBrains IDE 의 프로젝트 로컬 설정. 기계마다 다르다.
+.idea/
