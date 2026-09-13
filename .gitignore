@@ -181,3 +181,6 @@ keys
 
 # JetBrains IDE 의 프로젝트 로컬 설정. 기계마다 다르다.
 .idea/
+
+# Serena MCP 의 기계 로컬 인덱스 캐시.
+.serena/
